@@ -1,0 +1,14 @@
+h1 {
+    font-size: 70px;
+    color: red;
+}
+
+.sub-heading {
+    font-size: 40px;
+    color: green;
+}
+
+#para {
+    font-size: 25px;
+    color: teal;
+}
